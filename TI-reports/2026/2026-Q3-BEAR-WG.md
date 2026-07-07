@@ -89,7 +89,12 @@ Demonstrate the value proposition of making developer's lives easier and reduce 
 Security Things: How OpenSSF's Technical Initiatives Keep You Safe From the Upside Down! — 2:10pm CDT — Real supply chain problems mapped to OpenSSF solutions, with lightning-round demos from Working Group Leads and Project Maintainers..
 ### Up Next
 * DevRel community meeting July 9 11:30am ET 
-* They continue to work on their list of CFPs to submit for conferences
+* DevRel has submitted talks for:
+  * Open Source SecurityCon NA 2026
+  * Open Source Summit EU
+  * OpenSSF Community Day
+* They're also working to prep shareable content/materials (“talks in a box” style with CFP drafts, talk outlines and slides) so the community is able to give talks on OpenSSF, WGs, TI’s/Projects.
+
 ## Questions/Issues for the TAC
 * Welcome Calls: We have been struggling to get responses from other WGs willing to host a Welcome Call. Would love the TAC’s help in promoting these as part of our more general community onboarding resources.
 ## Additional Information
